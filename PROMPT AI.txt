@@ -1,0 +1,33 @@
+PROMPT AI
+TUGAS KOMPUTASI NUMERIK
+Materi: Sistem Persamaan Linear (SPL) 3 Variabel
+
+1. Prompt Nomor 5
+"Bantu saya membuat algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel dengan langkah-langkah yang mudah dipahami."
+
+2. Prompt Nomor 6
+"Buatkan kode Python untuk menyelesaikan Sistem Persamaan Linear tiga variabel menggunakan Google Colab dan library NumPy."
+
+3. Prompt Nomor 6
+"Bagaimana cara menyusun kode Python SPL tiga variabel dalam beberapa cell yang dapat dijalankan secara terpisah?"
+
+4. Prompt Nomor 6
+"Jika kode Python SPL tiga variabel digabung menjadi satu cell, berikan kode lengkapnya."
+
+5. Prompt Nomor 7
+"Berikan penjelasan detail pada setiap baris kode Python untuk menyelesaikan SPL tiga variabel."
+
+6. Prompt Nomor 7
+"Bantu saya menambahkan komentar penjelasan pada kode Python SPL tiga variabel agar mudah dipahami."
+
+7. Prompt GitHub
+"Bagaimana cara membuat repository GitHub untuk tugas Komputasi Numerik?"
+
+8. Prompt GitHub
+"Bagaimana cara mengganti kode lama dengan kode baru di repository GitHub?"
+
+9. Prompt GitHub
+"Bagaimana cara menyimpan dan melakukan commit perubahan kode di GitHub?"
+
+10. Prompt Nomor 9
+"Bantu saya membuat file TXT yang berisi kumpulan prompt AI untuk tugas Komputasi Numerik."
